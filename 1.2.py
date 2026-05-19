@@ -1,0 +1,6 @@
+name=str(input('name: '))
+age=int(input('age: '))
+branch=str(input('branch: '))
+print(name)
+print(age)
+print(branch)
