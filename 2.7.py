@@ -1,0 +1,11 @@
+print('string Methods')
+name = "star "
+print(name.capitalize())
+print(name.upper())
+print(name.lower())
+print(name.isdigit())
+print(name.isalpha())
+print(name.count("a"))
+print(name.replace("s","b"))
+print(name*3)
+print(name.find("a"))
