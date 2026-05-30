@@ -1,4 +1,4 @@
-print("Username Formatter")
+print("Project:Username Formatter")
 name = input("Enter your full name: ")
 first_chars = name[0:3]
 print(first_chars)
